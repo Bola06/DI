@@ -1,0 +1,8 @@
+D:\Users\usuario\Desktop\Programación2\Ejercicio4Bien\Ejercicio4Bien\bin\Debug\Ejercicio4Bien.dll
+D:\Users\usuario\Desktop\Programación2\Ejercicio4Bien\Ejercicio4Bien\bin\Debug\Ejercicio4Bien.pdb
+D:\Users\usuario\Desktop\Programación2\Ejercicio4Bien\Ejercicio4Bien\obj\Debug\Ejercicio4Bien.csproj.AssemblyReference.cache
+D:\Users\usuario\Desktop\Programación2\Ejercicio4Bien\Ejercicio4Bien\obj\Debug\Ejercicio4Bien.DibujoAhorcado.resources
+D:\Users\usuario\Desktop\Programación2\Ejercicio4Bien\Ejercicio4Bien\obj\Debug\Ejercicio4Bien.csproj.GenerateResource.cache
+D:\Users\usuario\Desktop\Programación2\Ejercicio4Bien\Ejercicio4Bien\obj\Debug\Ejercicio4Bien.csproj.CoreCompileInputs.cache
+D:\Users\usuario\Desktop\Programación2\Ejercicio4Bien\Ejercicio4Bien\obj\Debug\Ejercicio4Bien.dll
+D:\Users\usuario\Desktop\Programación2\Ejercicio4Bien\Ejercicio4Bien\obj\Debug\Ejercicio4Bien.pdb
