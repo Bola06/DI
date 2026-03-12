@@ -1,8 +1,0 @@
-D:\Users\usuario\Desktop\Programación2\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.dll
-D:\Users\usuario\Desktop\Programación2\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
-D:\Users\usuario\Desktop\Programación2\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
-D:\Users\usuario\Desktop\Programación2\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.UserControl1.resources
-D:\Users\usuario\Desktop\Programación2\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
-D:\Users\usuario\Desktop\Programación2\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
-D:\Users\usuario\Desktop\Programación2\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.dll
-D:\Users\usuario\Desktop\Programación2\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
